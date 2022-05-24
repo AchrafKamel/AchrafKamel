@@ -14,8 +14,8 @@
    <img src="https://github.com/AchrafKamel/AchrafKamel/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-[![GitHub AchrafKamel stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AchrafKamel&theme=dracula)](https://github.com/AchrafKamel/AchrafKamel)
 [![akamel's 42 stats](https://badge42.vercel.app/api/v2/cl3kg4fr6000609l9lb86oxx6/stats?cursusId=21&coalitionId=76)](https://github.com/AchrafKamel/AchrafKamel)
+[![GitHub AchrafKamel stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AchrafKamel&theme=dracula)](https://github.com/AchrafKamel/AchrafKamel)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchrafKamel&layout=compact&hide_border=true&langs_count=10&theme=dracula"/><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AchrafKamel&theme=dracula"/>
 

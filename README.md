@@ -11,7 +11,12 @@
 <img src="https://komarev.com/ghpvc/?username=AchrafKamel&label=Profile%20views&color=0e75b6&style=flat" alt="AchrafKamel" />
 
 <p align="center">
-   <img src="https://github.com/AchrafKamel/AchrafKamel/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <!-- <img src="https://github.com/AchrafKamel/AchrafKamel/blob/output/github-contribution-grid-snake.svg" alt="snake"> -->
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AchrafKamel/AchrafKamel/output/github-contribution-grid-snake-dark.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AchrafKamel/AchrafKamel/output/github-contribution-grid-snake.svg">
+     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AchrafKamel/AchrafKamel/output/github-contribution-grid-snake.svg">
+   </picture>
 </p>
 
 [![akamel's 42 stats](https://badge42.vercel.app/api/v2/cl3kg4fr6000609l9lb86oxx6/stats?cursusId=21&coalitionId=76)](https://github.com/AchrafKamel/AchrafKamel)
